@@ -1,4 +1,7 @@
 
+/**
+ * @deprecated Import from interfaces insead
+ */
 export enum RegressionType {
     EXPONENTIAL = 'Exponential',
     LINEAR      = 'Linear',

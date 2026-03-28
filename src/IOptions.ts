@@ -1,4 +1,7 @@
 
+/**
+ * @deprecated Import from interfaces insead
+ */
 export interface IRangeOptions {
     low: number;
     high: number;
@@ -6,6 +9,9 @@ export interface IRangeOptions {
     allowOutOfBounds?: boolean;
 }
 
+/**
+ * @deprecated Import from interfaces insead
+ */
 export interface IOptions {
     order?: number;
     precision?: number;
